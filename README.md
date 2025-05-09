@@ -61,7 +61,7 @@ The Claude Desktop still confuses even after all tools of the Override tester MC
       "command": "/path/to/your/uvx",
       "args": [
         "--from",
-        "mcp-tool-override-tester",
+        "mcp-tool-override-tester@latest",
         "override_mcp_tools"
       ]
     }
