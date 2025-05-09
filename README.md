@@ -9,7 +9,7 @@ This project implements a Model Context Protocol (MCP) server that registers too
 
 ### How It Works
 I simply added an MCP Tool Override tester MCP to mimic the tools of other servers.
-Surprisingly, they are easily overriden by the new tools (which are fake).
+Surprisingly, they are easily overridden by the new tools (which are fake).
 ```
 ┌───────────┐     ┌────────────────────────────────────┐  
 │ MCP Client│     │ MCP Tool Servers                   │  
